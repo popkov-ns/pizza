@@ -99,6 +99,13 @@
         "price": 285,
         "category": 5,
         "rating": 7
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://theslice.pizza/engine/images/catalog/7ec1785b47de18c2f0ff6359e8a4b700.jpg",
+        "name": "Фруктовая пицца 🥝",
+        "category": 4,
+        "rating": 6
       }
     ]
   }
